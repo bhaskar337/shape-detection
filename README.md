@@ -1,6 +1,6 @@
 # shape-detection
 
-Implementation of the algorithm proposed in:
+Implementation of the shape detection algorithm proposed in:
 
 Hewa Majeed Zangana, "A New Algorithm for Shape Detection", 2017
 
